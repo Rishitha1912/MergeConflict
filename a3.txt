@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file3
+=======
+welcomeeeee
+>>>>>>> feature1

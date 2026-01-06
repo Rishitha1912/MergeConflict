@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 hifile1
+=======
+helloooo
+
+
+
+
+
+
+
+
+>>>>>>> feature1

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiif2
+=======
+hiiiiiiii
+>>>>>>> feature1
